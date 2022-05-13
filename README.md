@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snoozy0001
-- 👀 I’m interested in Database Management 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in Javascript and C++
+- 🌱 I’m currently builing using React
+- 💞️ I’m looking to collaborate on fintech and banking projects 
 - 📫 How to reach me owoyeg@gmail.com 
 
 <!---
